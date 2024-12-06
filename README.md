@@ -2,7 +2,7 @@
 
 ## Project is Live at [https://pokemon.salmann.dev](https://pokemon.salmann.dev)
 
-Welcome to **Pokedex**! A simple and interactive web appbuilt with HTML, CSS, and JavaScript that lets you explore Pokémon data.Whether you're a fan or just curious, this Pokedex will provide detailedinformation about your favorite Pokémon! 🐾✨
+Welcome to **Pokedex**! A simple and interactive web app built with HTML, CSS, and JavaScript that lets you explore Pokémon data. Whether you're a fan or just curious, this Pokedex will provide detailed information about your favorite Pokémon! 🐾✨
 
 ## **Features**
 
