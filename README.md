@@ -1,6 +1,6 @@
 # 🌟 **Pokedex** 🌟
 
-#### Project is Live at [https://pokemon.salmann.dev](https://pokemon.salmann.dev)
+## Project is Live at [https://pokemon.salmann.dev](https://pokemon.salmann.dev)
 
 Welcome to **Pokedex**! A simple and interactive web appbuilt with HTML, CSS, and JavaScript that lets you explore Pokémon data.Whether you're a fan or just curious, this Pokedex will provide detailedinformation about your favorite Pokémon! 🐾✨
 
@@ -16,7 +16,6 @@ Welcome to **Pokedex**! A simple and interactive web appbuilt with HTML, CSS, an
 ## **Getting Started**
 
   **Clone the Repository** 
-  
     ```bash
     git clone https://github.com/thesalmanx/pokedex.git 
     cd pokedex
